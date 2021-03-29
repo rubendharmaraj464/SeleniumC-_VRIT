@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="D:\SeleniumC#\TestAutomation\Alerts.cs" Link="Alerts.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="BeginCollectionItem" Version="1.2.1" />
     <PackageReference Include="Docker.DotNet" Version="3.125.4" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.1" />
